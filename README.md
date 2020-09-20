@@ -1,7 +1,7 @@
 # East.Pytorch
 
 ## This is a PyTorch Re-Implementation of EAST
-### Performance
+### Performance on ICDAR2015
 model | precision | recall | F1
 :-: | :-: | :-: | :-: 
 paper(VGG16+RBOX) | 0.8046 | 0.7275 | 0.7641 | 
